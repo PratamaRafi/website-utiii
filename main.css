@@ -22,7 +22,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url("img/back2.jpg");
+  background-image: url("img/wall.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-position: 0 -200px;
