@@ -43,6 +43,6 @@ body{
 @media screen and (max-width: 992px) {
 	.header-area h2,h3{
 		font-size: 2em;
-		top: 50%;
+		top: 60%;
 	}
 }
